@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tliviipatavinih17unkngoog_0336.png"; bbox 0 0 2825 4759; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1085 1471 2014 1534">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1085 1471 2014 1534">
+     <span class='ocr_line' id='line_1_1' title="bbox 1085 1471 2014 1534; baseline -0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 1085 1477 1189 1532; x_wconf 75' lang='lat' dir='ltr'><strong>An</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1260 1473 1398 1532; x_wconf 77' lang='lat' dir='ltr'><strong>den</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1453 1471 2014 1534; x_wconf 69' lang='lat' dir='ltr'>Buohbinder.&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 616 1567 2640 1724">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 616 1567 2640 1724">
+     <span class='ocr_line' id='line_1_2' title="bbox 616 1567 2640 1644; baseline 0 -16"><span class='ocrx_word' id='word_1_4' title='bbox 616 1569 1124 1628; x_wconf 69' lang='lat' dir='ltr'>nehenstehender</span> <span class='ocrx_word' id='word_1_5' title='bbox 1170 1571 1494 1644; x_wconf 71' lang='lat' dir='ltr'><strong>Haupttitel</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1541 1573 1690 1633; x_wconf 68' lang='lat' dir='ltr'><strong>muse</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1743 1567 2181 1642; x_wconf 73' lang='lat' dir='ltr'>abgeschuitten</span> <span class='ocrx_word' id='word_1_8' title='bbox 2238 1569 2361 1626; x_wconf 79' lang='lat' dir='ltr'><strong>und</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2410 1578 2640 1633; x_wconf 70' lang='lat' dir='ltr'>Tamus</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 748 1635 2269 1724; baseline 0 -31"><span class='ocrx_word' id='word_1_10' title='bbox 748 1641 1005 1718; x_wconf 69' lang='lat' dir='ltr'><strong>Quartus</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1050 1641 1193 1696; x_wconf 71' lang='lat' dir='ltr'><strong>Pars</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1239 1641 1418 1708; x_wconf 65' lang='lat' dir='ltr'><strong>Prior</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1463 1637 1964 1724; x_wconf 58' lang='lat' dir='ltr'><strong>vopangebunden</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 2011 1635 2269 1694; x_wconf 75' lang='lat' dir='ltr'><strong>werden.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
